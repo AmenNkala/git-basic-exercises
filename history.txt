@@ -1,0 +1,1000 @@
+  187  nano README.md
+  188  git add README.md
+  189  git commit -m "random readme changes"
+  190  git checkout history
+  191  cat README.md
+  192  git branch
+  193  rm README.md
+  194  echo "booya" > README.md
+  195  git status
+  196  git add README.md
+  197  git commit -m "rewrote readme"
+  198  git checkout master
+  199  ls
+  200  git checkout history
+  201  ls
+  202  git branch
+  203  git checkout master
+  204  history>history.txt
+  205  ls
+  206  git checkout history
+  207  history>historyyy.txt
+  208  git checkout history
+  209  git brach
+  210  git branch
+  211  git checkout -D history
+  212  git branch
+  213  git branch -D history
+  214  git status
+  215  rm historyyy.txt
+  216  git status
+  217  git add history.txt
+  218  git status
+  219  git commit
+  220  git status
+  221  ls
+  222  git rm hihstory.txt
+  223  git rm history.txt
+  224  git status
+  225  git branch
+  226  ls
+  227  git branch
+  228  git branch history
+  229  git checkout history
+  230  gls
+  231  ls
+  232  git brnach
+  233  git branch
+  234  ls
+  235  git log
+  236  mkdir git-basic-exercises
+  237  cd git-basic-exercises
+  238  git init
+  239  touch README.md
+  240  git add README.md
+  241  git commit -m iniial commit"
+  242  clear
+  243  cd /
+  244  git status
+  245  git commit -m "initial commit"
+  246  git status
+  247  git log
+  248  nano README.md
+  249  cat README.md
+  250  git status
+  251  git add README.md
+  252  git commit -m "second commit"
+  253  nano README.md
+  254  gits status
+  255  git status
+  256  git add README.md 
+  257  git commit -m README.md
+  258  git log
+  259  mkdir git-basic-exercises
+  260  cd git-basic-exercises
+  261  git init
+  262  touch README.md
+  263  git add README.md
+  264  git commit -m README.md "initial commit"
+  265  git commit -m "initial commit"
+  266  git status
+  267  git log
+  268  q
+  269  nano README.md
+  270  cat README.md
+  271  git status
+  272  git add README>md
+  273  git add README.md
+  274  git status
+  275  git rm md
+  276  ls
+  277  rm md
+  278  ls
+  279  git status
+  280  cat README.md
+  281  git commit -m "second commit"
+  282  nano README.md
+  283  git README.md
+  284  git add README.md
+  285  git commit -m "third commit"
+  286  git log
+  287  git checkout 5d550b6c2f38ead23da4ee070c4f1dba18e99f25
+  288  cat README.md
+  289  git checkout master
+  290  cat README.md
+  291  git branch milkshake-flavours
+  292  git branch
+  293  git checkout milkshake-flavours
+  294  nano milkshakes.md
+  295  git status
+  296  git add milkshake.md
+  297  git add milkshakes.md
+  298  git commit -m "added initial flavours"
+  299  git log
+  300  git checkout master
+  301  git log
+  302  git branch history
+  303  git checkout history
+  304  git log
+  305  git branch
+  306  history > history.txt
+  307  git status
+  308  git add history.txt
+  309  git commit -m "added history"
+  310  git log
+  311  git checkout milkshake-flavours
+  312  git log
+  313  git master
+  314  git checkout master
+  315  ls
+  316  nano README.md
+  317  git add README.md
+  318  git commit -m "random readme changes"
+  319  git checkout history
+  320  cat README.md
+  321  rm README.md
+  322  echo "booya" > README.md
+  323  git status
+  324  git add README.md
+  325  git commit -m "rewrote readme"
+  326  git checkout master
+  327  ls
+  328  git checkout history
+  329  ls
+  330  git checkout master
+  331  ls
+  332  git log
+  333  cat README.md
+  334  git checkout history
+  335  ls
+  336  cat README.md
+  337  git branch
+  338  git log
+  339  git status
+  340  git branch
+  341  git checkout master
+  342  git log
+  343  git status
+  344  mkdir git-basic-exercises
+  345  cd git-basic-exercises
+  346  touch README.md
+  347  git add README.md
+  348  git init
+  349  git add README.md
+  350  git status
+  351  git commit -m "initial comit"
+  352  nano README.md
+  353  cat README.md
+  354  git add README.md
+  355  git commit -m "second commit"
+  356  git log
+  357  git status
+  358  nano README.md
+  359  git add README.md
+  360  git commit -m "third commit"
+  361  git log
+  362  git checkout 60763e7582c4d96ba302fac999c4ef543da121c6
+  363  cat README.md
+  364  git checkout master
+  365  cat README.md
+  366  git branch milkshake-flavours
+  367  git branch
+  368  git checkout milkshake-flavours
+  369  nano milkshakes.md
+  370  git add milkshakes.md
+  371  git commit -m "added initial flavours"
+  372  git log
+  373  git checkout master
+  374  git branch history
+  375  git checkout history
+  376  git log
+  377  git branch
+  378  history.txt
+  379  history > history.txt
+  380  git status
+  381  git add .
+  382  git status
+  383  git commit -m "added history"
+  384  git log
+  385  git checkout milkshake-flavours
+  386  git log
+  387  ls
+  388  nano README.md
+  389  git add README.md
+  390  git commit -m "random readme changes"
+  391  git checkout history
+  392  cat README.md
+  393  rm README.md
+  394  echo "booya" > README.md
+  395  git add README.md
+  396  git commit -m rewrote readme"
+  397  git commit -m "rewrote readme"
+  398  claer
+  399  q
+  400  git status
+  401  git commit -m "rewrote readme"
+  402  git log
+  403  git branch
+  404  git checkout master
+  405  git log
+  406  ls
+  407  git checkout history
+  408  ls
+  409  git checkout milkshake-flavours
+  410  ls
+  411  git checkout master
+  412  git merge milkshake-flavours
+  413  ls
+  414  git log
+  415  git merge history
+  416  git branch
+  417  git checkout master
+  418  git status
+  419  git add README.md
+  420  git merge history
+  421  git branch
+  422  git merge milkshake-flavours
+  423  git log
+  424  git status
+  425  git commit
+  426  git log
+  427  ls
+  428  git branch
+  429  git checkout history
+  430  ls
+  431  cd ../
+  432  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  433  cd repo-to-clone
+  434  ls
+  435  cd a-repo-to-clone
+  436  git branch
+  437  git log
+  438  git branch -a
+  439  git branch
+  440  git remore -v
+  441  git remote -v
+  442  git checkout project/git-basic-exercises
+  443  git branch
+  444  cd ../
+  445  git branch
+  446  cd a-repo-to-clone
+  447  git branch -a
+  448  cd../
+  449  cd ../
+  450  git checkout git-basic-exercises
+  451  cd a-repo-to-clone
+  452  git branch project/git-basic-exercises
+  453  git remote -v
+  454  git checkout project
+  455  git checkout project/git-basic-exercises
+  456  git log
+  457  git branch
+  458  cd ../
+  459  ls
+  460  cd git-basic-exercises
+  461  git log
+  462  cd
+  463  ls
+  464  cd Documents
+  465  ls
+  466  mkdir this-will-be-another-repo
+  467  cd this-will-be-another-repo
+  468  git init
+  469  touch README.md
+  470  cd../
+  471  cd ..
+  472  cd Umuzi
+  473  ls
+  474  cd project
+  475  ls
+  476  cd git-basic-exercises
+  477  git log
+  478  cd ../
+  479  cd ..
+  480  ls
+  481  cd this-will-be-another-repo
+  482  git status
+  483  git add README.me
+  484  git add README.md
+  485  git commit 
+  486  cd ../
+  487  cd Umuzi
+  488  cd project
+  489  ls
+  490  cd git-basic-exercises
+  491  git log
+  492  touch ignore-me.db
+  493  git status
+  494  nano .gitignore
+  495  git status
+  496  nano .gitignore
+  497  git status
+  498  nano .gitignore
+  499  git status
+  500  mkdir large-directory-that-should-be-local-only
+  501  cd large-directory-that-should-be-local-only
+  502  touch readme.md
+  503  nano readme.md
+  504  cd ..
+  505  git status
+  506  nano .gitignore
+  507  git status
+  508  git add .gitignore
+  509  git commit -m "added .gitignore"
+  510  git push
+  511  git remote add https://github.com/AmenNkala/git-basic-exercises
+  512  git remote add origin https://github.com/AmenNkala/git-basic-exercises.git
+  513  git branch -M main
+  514  git push -u origin main
+  515  cd git-basic-exercises
+  516  ls
+  517  cd ../
+  518  cd .
+  519  cd ..
+  520  ls
+  521  cd pre-bootcamp-coding-challenges
+  522  ls
+  523  code task4.js
+  524  node task4.js
+  525  git status
+  526  git add task4.js
+  527  git status
+  528  git commit -m "changes in task4"
+  529  node task9.js
+  530  code task9.js
+  531  node task9.js
+  532  git status
+  533  git add task9.js
+  534  git commit -m "changes in task9"
+  535  git status
+  536  git push
+  537  git push origin main
+  538  git pull --rebase
+  539  git push origin main
+  540  git pull --rebase origin main
+  541  git push
+  542  clear
+  543  cd ../
+  544  git status
+  545  git clone https://github.com/Umuzi-org/Amen-Nkala-219-level-1-programming-katas-javascript
+  546  git checkout main
+  547  git checkout master
+  548  git status
+  549  ls
+  550  cd Amen-Nkala-219-level-1-programming-katas-javascript  project
+  551  Amen-Nkala-219-level-1-programming-katas-javascript  project
+  552  cd Amen-Nkala-219-level-1-programming-katas-javascript
+  553  git status
+  554  git checkout main
+  555  git pull
+  556  git checkout -b hello
+  557  git checkout hello
+  558  git branch
+  559  touch hello.js
+  560  git status
+  561  git add hello.js
+  562  git commit -m "initial commit"
+  563  git push
+  564  git push --set-upstream origin hello
+  565  clear
+  566  git checkout master
+  567  git checkout main
+  568  git pull
+  569  git checkout -b even_or_odd
+  570  git branch
+  571  ls
+  572  ls -a
+  573  ls
+  574  git status
+  575  touch evenOrOdd.js
+  576  code evenOrOdd.js
+  577  node evenOrOdd.js
+  578  git branch
+  579  git checkout main
+  580  git pull
+  581  git checkout -b square
+  582  touch drawSquare.js
+  583  code drawSquare.js
+  584  node drawSquare.js
+  585  git status
+  586  node drawSquare.js
+  587  git status
+  588  git init
+  589  git clone https://github.com/AmenNkala/pre-bootcamp-coding-challenges
+  590  ls
+  591  cd pre-bootcamp-coding-challenges
+  592  ls
+  593  code task4.js
+  594  git pull
+  595  node task4.js
+  596  ls
+  597  code task11.js
+  598  git push
+  599  git status
+  600  git add .
+  601  git status
+  602  git commit -m "updates"
+  603  git push
+  604  git status
+  605  git branch
+  606  ls
+  607  code longestString
+  608  node longestString.js
+  609  clear
+  610  git checkout main
+  611  git branch
+  612  git checkout -b combineList
+  613  touch combineList.js
+  614  code combineList.js
+  615  node combineList.js
+  616  clear
+  617  git checkout main
+  618  git checkout -b textFrame
+  619  touch textFrame.js
+  620  code textFrame.js
+  621  git branch
+  622  node textFrame.js
+  623  touch bs.js
+  624  code bs.js
+  625  node bs.js
+  626  git push
+  627  node bs.js
+  628  node textFrame.js
+  629  git checkout main
+  630  git branch
+  631  git checkout hello
+  632  ls
+  633  code hello.js
+  634  node hello.js
+  635  git status
+  636  git pull
+  637  git status
+  638  git add .
+  639  git status
+  640  git commit -m "second commit"
+  641  git pull
+  642  git push
+  643  git checkout main
+  644  git push
+  645  git branch
+  646  git checkout even_or_odd
+  647  git push
+  648  git push --set-upstream origin even_or_odd
+  649  git branch
+  650  git checkout rightHandedTriangle
+  651  git push --set-upstream origin rightHandedTriangle
+  652  git checkout square
+  653  git push --set-upstream origin square
+  654  git branch
+  655  git status
+  656  ls
+  657  git checkout main
+  658  ls
+  659  git checkout hello
+  660  ls
+  661  git checkout main
+  662  ls
+  663  git branch
+  664  git checkout even_or_odd
+  665  ls
+  666  git branch
+  667  touch evenOrOdd.js
+  668  ls
+  669  nano evenOrOdd.js
+  670  node evenOrOdd.js
+  671  ls
+  672  nano evenOrOdd.js
+  673  node evenOrOdd.js
+  674  git status
+  675  git branch
+  676  git add .
+  677  git commit -m "commiting to correct branch"
+  678  ls
+  679  git branch
+  680  git pull
+  681  git push
+  682  git checkout main
+  683  git branch
+  684  git checkout hello
+  685  ls
+  686  clear
+  687  git clone https://github.com/Umuzi-org/Amen-Nkala-219-level-1-programming-katas-javascript
+  688  git init
+  689  git clone https://github.com/Umuzi-org/Amen-Nkala-219-level-1-programming-katas-javascript
+  690  ls
+  691  cd Amen-Nkala-219-level-1-programming-katas-javascript
+  692  ls
+  693  git branch
+  694  git branch -a
+  695  git pull remote -v
+  696  git pull
+  697  git branch
+  698  git checkout gello
+  699  git checkout hello
+  700  git branch
+  701  ls
+  702  nano hello.js
+  703  cd ../
+  704  ls
+  705  cd Amen-Nkala-219-level-1-programming-katas-javascript
+  706  ls
+  707  bit branch
+  708  git bfranch
+  709  git branch
+  710  git checkout main
+  711  git status
+  712  git branch
+  713  git add .
+  714  git commit -m "hello function update"
+  715  git log
+  716  git branch
+  717  git checkout main
+  718  git branch -a
+  719  git checkout even_or_odd
+  720  git branch
+  721  touch evenOrOdd.js
+  722  nano evenOrOdd,js
+  723  fg
+  724  node evenOrOdd.js
+  725  git branch
+  726  git status
+  727  ls
+  728  rm evenOrOdd,js
+  729  ls
+  730  node evenOrOdd.js
+  731  git status
+  732  git push
+  733  git branch
+  734  git checkout hello
+  735  git push
+  736  git branch -a
+  737  git checkout square
+  738  git branch
+  739  ls
+  740  touch drawSquare.js
+  741  nano drawSquare,js
+  742  fg
+  743  ls
+  744  nano drawSquare.js
+  745  node drawSquare.js
+  746  git status
+  747  git branch
+  748  git add .
+  749  git commit -m "square function commit"
+  750  git push
+  751  git branch
+  752  git branch -a
+  753  git checkout rightHandedTriangle
+  754  ls
+  755  touch rightHandedTriangle.js
+  756  node rightHandedTriangle.js
+  757  git branch
+  758  git status
+  759  git add .
+  760  git commit -m "right angled triangle function commit"
+  761  git push
+  762  git branch
+  763  git branch -a
+  764  git checkout main
+  765  git branch
+  766  git branch -a
+  767  git checkout -b isosceles
+  768  touch drawIsosceles.js
+  769  nano drawIsosceles.js
+  770  node drawIsosceles.js
+  771  git status
+  772  git add .
+  773  git commit -m "isosceles function commit"
+  774  git push
+  775  git push --set-upstream origin isosceles
+  776  git checkout -b longestString.js
+  777  git branch -d longestString.js
+  778  git branch -D longestString.js
+  779  git branch
+  780  git checkout -b longestString
+  781  git branch
+  782  ls
+  783  git checkout isosceles
+  784  ls
+  785  git checkout main
+  786  ls
+  787  git checkout longestString
+  788  ls
+  789  rm drawIsosceles.js 
+  790  ls
+  791  git branch
+  792  git checkout isosceles
+  793  ls
+  794  clear
+  795  git init
+  796  git clone https://github.com/Umuzi-org/Amen-Nkala-219-level-1-programming-katas-javascript
+  797  git branch -a
+  798  git branch
+  799  git pull
+  800  git checkout main
+  801  git pull main
+  802  mkdir git-basic-exercises
+  803  git init
+  804  git clone https://github.com/AmenNkala/git-basic-exercises
+  805  git status
+  806  cd git-basic-exercises
+  807  git clone https://github.com/AmenNkala/git-basic-exercises
+  808  git status
+  809  mkdir git-basic-excersises
+  810  cd git-basic-excersises
+  811  touch README.md
+  812  ls -a
+  813  git init
+  814  ls -a
+  815  git status
+  816  git log
+  817  git add .
+  818  git status
+  819  git commit -m "initial commit"
+  820  git log
+  821  q
+  822  nano README.md
+  823  cat README.md
+  824  git status
+  825  git add .
+  826  git commit -m "second commit"
+  827  nano README.md
+  828  git add .
+  829  git commit -m "third commit"
+  830  git log
+  831  q
+  832  git checkout f4804a6479248da400e2d514f7512d8b93590f75
+  833  cat README.md
+  834  git checkout main
+  835  git checkout master
+  836  git branch
+  837  mkdir git-basic-excersises
+  838  cd git-basic-excersises
+  839  git init
+  840  git branch -M main
+  841  touch README.md
+  842  git add README.md
+  843  git commit -m "initial commit"
+  844  git branch -M main
+  845  git branch
+  846  mkdir cd git-basic-excersises
+  847  mkdir  git-basic-excersises
+  848  ls
+  849  rm cd
+  850  cd git-basic-excersises 
+  851  git init
+  852  git clone https://github.com/AmenNkala/git-basic-exercises
+  853  touch README.md
+  854  ls -a
+  855  git add .
+  856  git status
+  857  git add 
+  858  ls
+  859  git status
+  860  nano README.md
+  861  git add .
+  862  git commit -m "second commit"
+  863  cat README.md
+  864  git status
+  865  nano README.md
+  866  git status
+  867  git add .
+  868  git commit -m "third commit"
+  869  git status
+  870  git log
+  871  git checkout 5dd6e307faf52714e81c78be3183e9d00e33ff0b
+  872  cat README.md
+  873  git checkout main
+  874  cat README.md
+  875  clear
+  876  git branch
+  877  git branch milkshake-flavours
+  878  git branch
+  879  git checkout milkshake-flavours
+  880  git branch
+  881  nano milkshakes.md
+  882  git status
+  883  git ad .
+  884  git add .
+  885  git commit -m "added initial flavours"
+  886  git log
+  887  git checkout main
+  888  git log
+  889  git branch
+  890  git checkout -b history
+  891  git log
+  892  git branch
+  893  history > history.txt
+  894  ls
+  895  git branch
+  896  git add .
+  897  git commit -m "added history"
+  898  git branch
+  899  git log
+  900  git checkout milkshake-flavours
+  901  git log
+  902  nano README.md
+  903  git add .
+  904  git commit -m "random readme changes"
+  905  git checkout history
+  906  cat README.md
+  907  rm README.md
+  908  echo "booya" > README.md
+  909  git add .
+  910  git branch
+  911  git commit -m "rewrote readme"
+  912  git checkout main
+  913  ls
+  914  git log
+  915  git checkout milkshake-flavours
+  916  ls
+  917  git log
+  918  git checkout history
+  919  ls
+  920  git log
+  921  git checkout main
+  922  git merge milkshake-flavours
+  923  ls
+  924  git log
+  925  git branch
+  926  git checkout main
+  927  git merge history
+  928  git status
+  929  git merge --abort
+  930  git status
+  931  git log
+  932  git ls
+  933  ls
+  934  git checkout main
+  935  git merge history
+  936  git status
+  937  git add .
+  938  git commit -m "modified readme on merge"
+  939  git log
+  940  git branch
+  941  git merge history
+  942  ls
+  943  git log
+  944  git checkout history
+  945  git log
+  946  git checkout milkshakes-flavours
+  947  git checkout milkshake-flavours
+  948  git log
+  949  git checkout history
+  950  merge main
+  951  git merge main
+  952  git log
+  953  git checkout main
+  954  git log
+  955  git branch
+  956  git log
+  957  git remote add origin https://github.com/AmenNkala/git-basic-exercises.git
+  958  git branch -M main
+  959  git push -u origin main
+  960  git branch
+  961  git checkout history
+  962  git push
+  963  git push --set-upstream origin history
+  964  git checkout milkshake-flavours
+  965  git push
+  966  git push --set-upstream origin milkshake-flavours
+  967  cd ../
+  968  clear
+  969  ls
+  970  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  971  ls
+  972  cd a-repo-to-clone 
+  973  git branch
+  974  git log
+  975  git branch -a
+  976  git checkout git-basic-exercises
+  977  git checkout -b project/git-basic-exercises 
+  978  git remote -v
+  979  git log
+  980  git branch
+  981  cd ../
+  982  ls
+  983  cd git-basic-excersises 
+  984  git log
+  985  cd ../
+  986  mkdir this-will-be-another-repo
+  987  cd this-will-be-another-repo
+  988  git init
+  989  touch README.md
+  990  cd ../
+  991  ls
+  992  cd git-basic-excersises
+  993  git log
+  994  cd ../
+  995  ls
+  996  cd this-will-be-another-repo
+  997  git status
+  998  git add .
+  999  git commit -m "first commit"
+ 1000  git status
+ 1001  cd ../
+ 1002  cd git-basic-excersises
+ 1003  git log
+ 1004  touch ignore-me.db
+ 1005  git status
+ 1006  nano .gitignore
+ 1007  git status
+ 1008  mkdir large-directory-that-should-be-local-only
+ 1009  cd large-directory-that-should-be-local-only
+ 1010  touch README.md
+ 1011  nano README.md
+ 1012  cd ..
+ 1013  git status
+ 1014  nano .gitignore
+ 1015  git status
+ 1016  git add .gitignore
+ 1017  git commit -m "added .gitignore"
+ 1018  git push
+ 1019  git branch
+ 1020  mkdir git-basic-exercises
+ 1021  cd git-basic-exercises
+ 1022  ls -a
+ 1023  git init
+ 1024  git status
+ 1025  touch READMEmd
+ 1026  ls
+ 1027  rm READMEmd
+ 1028  ls
+ 1029  touch README.md
+ 1030  git status
+ 1031  git add .
+ 1032  git commit -m initial commit"
+ 1033  git commit -m "initial commit"
+ 1034  q
+ 1035  clear
+ 1036  git commit -m "initial commit"
+ 1037  cd git-basic-exercises
+ 1038  ls
+ 1039  git status
+ 1040  git commit -m "initial commit"
+ 1041  nano README.md
+ 1042  cat README.md
+ 1043  git status
+ 1044  git add .
+ 1045  git commit -m "second commit"
+ 1046  nano README.md
+ 1047  git add .
+ 1048  git commit -m "third commit"
+ 1049  git log
+ 1050  git checkout 570ad646ec57bca4cc4a9930303989abe0145d75
+ 1051  cat README.md
+ 1052  git checkout main
+ 1053  git branch -M main
+ 1054  git checkout master
+ 1055  git branch -M main
+ 1056  git branch
+ 1057  ls
+ 1058  ls -a
+ 1059  git log
+ 1060  cat README.md
+ 1061  git checkout -b milkshake-flavours
+ 1062  git branch
+ 1063  nano milkshakes.md
+ 1064  git add . 
+ 1065  git commit -m "added initial flavours"
+ 1066  git checkout main
+ 1067  git log
+ 1068  git checkout -b history
+ 1069  git log
+ 1070  git branch
+ 1071  history > history.txt
+ 1072  git log
+ 1073  git status
+ 1074  git add .
+ 1075  git commit -m "added history"
+ 1076  git log
+ 1077  git branch
+ 1078  git checkout milkshake-flavours
+ 1079  git log
+ 1080  ls
+ 1081  nano README.md
+ 1082  git status
+ 1083  git add .
+ 1084  git commit -m "random readme changes"
+ 1085  git checkout history
+ 1086  cat README.md
+ 1087  rm README.md
+ 1088  echo "booya" > README.md
+ 1089  git add .
+ 1090  git commit -m "rewrote readme"
+ 1091  git branch
+ 1092  git checkout main
+ 1093  git clone https://github.com/Umuzi-org/Amen-Nkala-219-level-1-programming-katas-javascript
+ 1094  ls
+ 1095  cd Amen-Nkala-219-level-1-programming-katas-javascript
+ 1096  ls
+ 1097  git branch -a
+ 1098  git pull combine
+ 1099  git pull origin combine
+ 1100  code combineList.js
+ 1101  clear
+ 1102  git branch -a
+ 1103  git pull origin longest
+ 1104  ls
+ 1105  git branch
+ 1106  git checkout longest
+ 1107  ls
+ 1108  code longestString.js
+ 1109  node longestString.js
+ 1110  git status
+ 1111  git branch
+ 1112  git add .
+ 1113  git commit -m "correct logic"
+ 1114  git branch
+ 1115  got log
+ 1116  git log
+ 1117  git push
+ 1118  git checkout main
+ 1119  git branch -a
+ 1120  git checkout rightHandedTriangle
+ 1121  ls
+ 1122  code ightHandedTriangle.js
+ 1123  code rightHandedTriangle.js
+ 1124  node rightHandedTriangle.js
+ 1125  git status
+ 1126  git add .
+ 1127  git commit -m "character changes"
+ 1128  git push
+ 1129  clear
+ 1130  cd ../
+ 1131  cd
+ 1132  ls
+ 1133  cd Documents
+ 1134  ls
+ 1135  cd Umuzi
+ 1136  ls
+ 1137  git clone https://github.com/AmenNkala/pre-bootcamp-coding-challenges
+ 1138  ls
+ 1139  cd pre-bootcamp-coding-challenges
+ 1140  ls
+ 1141  code task4.js
+ 1142  node task4.js
+ 1143  git status
+ 1144  git add .
+ 1145  git commit -m "changes in task4"
+ 1146  git push
+ 1147  clear
+ 1148  cd ../
+ 1149  ls
+ 1150  rm pre-bootcamp-coding-challenges
+ 1151  ls
+ 1152  ls -a
+ 1153  mkdir git-basic-exercises
+ 1154  cd git-basic-exercises
+ 1155  ls
+ 1156  git init
+ 1157  ls -a
+ 1158  git status
+ 1159  touch README.md
+ 1160  git add .
+ 1161  git commit -m "initial commit"
+ 1162  git log
+ 1163  nano README.md
+ 1164  cat README.md
+ 1165  git add .
+ 1166  git commit -m "second commit"
+ 1167  nano README.md
+ 1168  git add .
+ 1169  git commit -m "third commit"
+ 1170  git log
+ 1171  git branch
+ 1172  git branch -M main
+ 1173  git branch
+ 1174  git checkout -b milkshake-flavours
+ 1175  git branch
+ 1176  nano milkshakes.md
+ 1177  git status
+ 1178  git add .
+ 1179  git commit -m "added initial flavours"
+ 1180  git log
+ 1181  git checkout main
+ 1182  git branch
+ 1183  git checkout -b history
+ 1184  git log
+ 1185  git branch
+ 1186  history > history.txt
